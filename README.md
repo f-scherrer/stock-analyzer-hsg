@@ -28,7 +28,7 @@ Requirements: Python 3.13.x, pip
 
 ```powershell
 # clone
-git clone <repository-url>
+git clone https://github.com/f-scherrer/stock-analyzer-hsg.git
 cd stock-analyzer-hsg
 
 # create and activate venv (Windows PowerShell)
