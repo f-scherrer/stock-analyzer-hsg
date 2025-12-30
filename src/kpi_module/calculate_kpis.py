@@ -3,8 +3,9 @@
 # Author: Moritz Marty
 # Python version: 3.13.x (project standard)
 #
-# Note: GitHub Copilot was used for coding efficiency,
-# structure, coherence, and layout.
+# IMPORTANT: GitHub Copilot (AI-assisted coding) was
+# extensively used for code generation, structure,
+# implementation, coherence, and layout optimization.
 #
 # Description:
 # Calculates Key Performance Indicators (KPIs) from stock data.

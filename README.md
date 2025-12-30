@@ -2,7 +2,7 @@
 
 A modular stock analytics dashboard built with Python and Streamlit. Analyze stocks with real-time data, technical indicators, company news, and AI-powered sentiment analysis in one comprehensive interface.
 
-> **Note:** GitHub Copilot was used throughout this project for coding efficiency, structure, coherence, and layout.
+> **IMPORTANT DISCLAIMER:** This project was developed with extensive use of GitHub Copilot (AI-assisted coding). GitHub Copilot was instrumental in generating code structure, implementing features, ensuring coherence, optimizing layout, and improving overall code quality throughout the entire project.
 
 ## Architecture
 
