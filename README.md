@@ -2,6 +2,8 @@
 
 A modular stock market analytics dashboard built with Python and Streamlit. The app fetches market data, computes KPIs, renders charts, aggregates company news, and runs FinBERT-based sentiment analysis in one interface.
 
+> **Note:** GitHub Copilot was used throughout this project for coding efficiency, structure, coherence, and layout.
+
 ## Architecture
 
 - Module 1: Stock data (yfinance)

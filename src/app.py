@@ -1,7 +1,10 @@
 ##################################################
-# Market Metrics - Streamlit Web UI
+# Stock Analyzer - Streamlit Web UI
 # Author: Florian Scherrer
 # Python version: 3.13.x (project standard)
+#
+# Note: GitHub Copilot was used for coding efficiency,
+# structure, coherence, and layout.
 #
 # Description:
 # Main application entry point. Provides a modern web interface
@@ -45,7 +48,7 @@ except Exception:
 
 # Set page config
 st.set_page_config(
-    page_title="Market Metrics - Stock Analytics Dashboard",
+    page_title="Stock Analyzer - Stock Analytics Dashboard",
     page_icon="📈",
     layout="wide",
     initial_sidebar_state="expanded"
@@ -104,7 +107,7 @@ show_sentiment = st.sidebar.checkbox("Market Sentiment", value=True)
 # ============================================================================
 # MAIN CONTENT
 # ============================================================================
-st.title(f"Market Metrics - {ticker}")
+st.title(f"Stock Analyzer - {ticker}")
 
 st.markdown(f"""
 **Configuration:**  
@@ -343,4 +346,4 @@ if show_sentiment and show_news:
 # FOOTER
 # ============================================================================
 st.markdown("---")
-st.caption("Market Metrics | Data powered by yfinance, Finnhub, and custom analysis")
+st.caption("Stock Analyzer | Data powered by yfinance, Finnhub, and custom analysis")

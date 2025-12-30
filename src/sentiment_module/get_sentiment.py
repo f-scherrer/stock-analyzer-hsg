@@ -3,6 +3,9 @@
 # Author: Patric Dahinden
 # Python version: 3.13.x (project standard)
 #
+# Note: GitHub Copilot was used for coding efficiency,
+# structure, coherence, and layout.
+#
 # Description:
 # Receives a list of news articles (dictionaries), uses the
 # FinBERT model to classify sentiment, and adds BUY/HOLD/SELL

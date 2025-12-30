@@ -3,6 +3,9 @@
 # Author: Yanick Meier
 # Python version: 3.13.x (project standard)
 #
+# Note: GitHub Copilot was used for coding efficiency,
+# structure, coherence, and layout.
+#
 # Description:
 # Fetches company news from Finnhub for a ticker and a date range.
 # Returns a list of dictionaries with:

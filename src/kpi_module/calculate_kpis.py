@@ -3,6 +3,9 @@
 # Author: Moritz Marty
 # Python version: 3.13.x (project standard)
 #
+# Note: GitHub Copilot was used for coding efficiency,
+# structure, coherence, and layout.
+#
 # Description:
 # Calculates Key Performance Indicators (KPIs) from stock data.
 # Takes a DataFrame from Module A and returns metrics dictionary

@@ -3,6 +3,9 @@
 # Author: Abel Korcsog
 # Python version: 3.13.x (project standard)
 #
+# Note: GitHub Copilot was used for coding efficiency,
+# structure, coherence, and layout.
+#
 # Description:
 # Receives time-series KPI data from Module B (metrics_df)
 # and creates charts using matplotlib.

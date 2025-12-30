@@ -3,6 +3,9 @@
 # Author: Simon Schaller
 # Python version: 3.13.x (project standard)
 #
+# Note: GitHub Copilot was used for coding efficiency,
+# structure, coherence, and layout.
+#
 # Description:
 # Fetches historical stock data from Yahoo Finance for a ticker
 # and specified period/interval.
