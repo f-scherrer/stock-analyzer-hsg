@@ -1,0 +1,7 @@
+[project]
+name = "market-metrics"
+version = "0.0.0"
+requires-python = ">=3.13,<3.14"
+
+# Dependencies are managed in requirements.txt for runtime installs.
+# This file primarily enforces the Python version for installers/tools.
