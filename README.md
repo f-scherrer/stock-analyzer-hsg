@@ -1,6 +1,6 @@
-# Market Metrics
+# Stock Analyzer
 
-A modular stock market analytics dashboard built with Python and Streamlit. The app fetches market data, computes KPIs, renders charts, aggregates company news, and runs FinBERT-based sentiment analysis in one interface.
+A modular stock analytics dashboard built with Python and Streamlit. Analyze stocks with real-time data, technical indicators, company news, and AI-powered sentiment analysis in one comprehensive interface.
 
 > **Note:** GitHub Copilot was used throughout this project for coding efficiency, structure, coherence, and layout.
 
@@ -29,7 +29,7 @@ Requirements: Python 3.13.x, pip
 ```powershell
 # clone
 git clone <repository-url>
-cd market-metrics
+cd stock-analyzer-hsg
 
 # create and activate venv (Windows PowerShell)
 python -m venv .venv
@@ -75,7 +75,7 @@ python .\src\sentiment_module\get_sentiment.py
 ## Project Structure
 
 ```
-market-metrics/
+stock-analyzer-hsg/
 ├─ .env.example
 ├─ pyproject.toml
 ├─ requirements.txt
